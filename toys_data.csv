@@ -1,0 +1,6 @@
+# Category; Name; Price; MinAge; Size; Param1(Parts/Limited); Param2(Theme/Franchise/Scale)
+lego; Avengers tower; 1800.0; 10; LARGE; 1350; Plants vs. Zombies
+figurine; Залізна людина; 450.0; 8; MEDIUM; true; Marvel
+lego; Harry Potter castle; 850.0; 6; MEDIUM; 600; City
+figurine; Мандалорець; 600.0; 8; SMALL; false; Star Wars
+scalemodel; Plants vs. Zombies Booknook; 350.0; 12; SMALL; true; 1:35
